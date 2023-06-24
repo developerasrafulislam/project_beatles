@@ -1,0 +1,13 @@
+======== fonts ========
+font-family: 'Open Sans', sans-serif;
+font-family: 'Oswald', sans-serif;
+
+========== colors ==========
+blue: #0872b9
+lightblue: #5bc5f4
+black: #333333
+deep gray: #353535
+gray: #555555
+light gray: #e7e7e7
+
+blur white: #f1f1f1

@@ -1,0 +1,135 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*top of header start*/
+.th-right{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*header start*/
+.menu{
+    text-align: right;
+}
+
+/*about start*/
+.about-text{
+    padding-top: 20px;
+}
+.about-text p{
+    padding-bottom: 20px;
+}
+
+/*portfolio start*/
+.team-image img{
+    margin-bottom: 20px;
+}
+
+/*testimonial start*/
+.t-content {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/*top of fotter start*/
+.t-footer{
+    text-align: center;
+}
+.tf-header h2{
+    padding-bottom: 15px;
+}
+.tf-email {
+    margin: 10px 0;
+}
+.email-content, .web-content, .tf-mno{
+    text-align: left;
+}
+.tf-web{
+    margin-bottom: 20px;
+}
+.tf-no, .tf-email, .tf-web{
+    display: flex;
+    justify-content: center;
+}
+.tf-content{
+display: flex;
+justify-content: center;
+}
+
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*header start*/
+.menu{
+    text-align: right;
+}
+
+/*about start*/
+.about-text{
+    padding-top: 20px;
+}
+.about-text p{
+    padding-bottom: 20px;
+}
+
+/*portfolio start*/
+.team-image img{
+    margin-bottom: 20px;
+}
+
+/*top of fotter start*/
+.tf-header h2{
+    padding-bottom: 15px;
+}
+.tf-email {
+    margin: 10px 0;
+}
+.tf-web{
+    margin-bottom: 20px;
+}
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*header start*/
+.menu{
+    text-align: right;
+}
+
+/*portfolio start*/
+.team-image img{
+    margin-bottom: 20px;
+}
+
+/*top of fotter start*/
+.tf-header h2{
+    padding-bottom: 15px;
+}
+.tf-email {
+    margin: 10px 0;
+}
+.tf-web{
+    margin-bottom: 20px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+}
+
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+ }
+
+ /*Extra Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+
+ }
